@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning what I can and passing on what I've learned
 - 🌱 I’m currently learning ... everything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... tracye.wilhelm@gmail.com
 
 <!---
 tracyewilhelm/tracyewilhelm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
