@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tracyewilhelm
 - 👀 I’m interested in ... learning what I can and passing on what I've learned
-- 🌱 I’m currently learning CSS, JavaScript, jQuery, Node.JS, Express.js, React.js, Agile methodologies, MongoDB, MySQL, Git Tableau, and more
+- 🌱 I’m currently learning CSS, JavaScript, jQuery, Node.JS, Express.js, Agile methodologies, MongoDB, MySQL, React, Tableau, and more
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... tracye.wilhelm@gmail.com or (720) 280-8554
 - LinkedIn: www.linkedin.com/in/tracye-wilhelm-8b93212a
