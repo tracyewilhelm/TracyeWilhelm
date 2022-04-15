@@ -5,6 +5,7 @@
 - 📫 How to reach me ... tracye.wilhelm@gmail.com or (720) 280-8554
 - LinkedIn: www.linkedin.com/in/tracye-wilhelm-8b93212a
 - Resume: https://docs.google.com/document/d/1zI5gc-qBgjvgNVOtC29-UzGDqWewsE_xVBiSyJhGB94/edit?usp=sharing
+- Portfolio: https://tracye-wilhelm-portfolio-app.herokuapp.com
 
 <!---
 tracyewilhelm/tracyewilhelm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
